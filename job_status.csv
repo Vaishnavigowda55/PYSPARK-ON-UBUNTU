@@ -1,0 +1,10 @@
+Id,name,age,department,salary,city
+302,Alice,22,tester,55000,pune
+305,Bob,24,tester,25000,mumbai
+308,Charlie,35,support,15000,pune
+310,David,24,devops,30000,pune
+407,Eva,32,Tester,35000,pune
+408,Nano,28,support,18000,mumbai
+400,sudo,27,support,22000,pune
+255,snap,30,devops,45000,mumbai
+677,cateri,34,devops,65000,mumbai
