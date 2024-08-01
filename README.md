@@ -1,6 +1,6 @@
 #                           **PYSPARK ON UBUNTU**
- #### PySpark Shell: Access the PySpark interactive shell for quick data analysis and testing.
- #### Includes five example PySpark DataFrame operations with their outputs. (check pysapk_installation_and_output File)
+  PySpark Shell: Access the PySpark interactive shell for quick data analysis and testing.
+  Includes five example PySpark DataFrame operations with their outputs. (check pysapk_installation_and_output File)
 
 
 
